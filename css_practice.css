@@ -7,10 +7,35 @@
 	font: inherit;
 	font-size: 100%;
 	font-family: 'Open Sans', sans-serif;
+
+}
+
+body {
+		background-image: url(pink_rice.png);
 }
 
 h1 {
 	font-size: 70px;
 	text-align: right;
 	font-family: 'Love Ya Like A Sister', cursive;
+	color: #BF6F7F;
+}
+
+h2 {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.header {
+	background-color: #000000;
+}
+
+.tagline {
+	background-color: #BF6F7F;
+	padding: 5px 0 5px 0;
+}
+
+.nav a {
+	text-decoration: none;
 }
